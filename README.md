@@ -110,7 +110,8 @@ Don't just summarize what you did; analyze how you did it. Use these four questi
     
 4. **What is the one thing I would change?** If you had to start this project again from scratch using the knowledge you have now, what is the single biggest architectural or process-based change you [...]
 
-	   Let's start with project summary. So the goal of this project is simply to make my own fume extractor  because the name brand ones are cost 1000 of dollars i would rather make it my self and to le[...]
+
+Let's start with project summary. So the goal of this project is simply to make my own fume extractor  because the name brand ones are cost 1000 of dollars i would rather make it my self and to le[...]
 
 4Q
 1. Next, let's start with what is the technical delta (in this case the cad design and the real one) and honestly it performs surprisingly well considered the total cost which is about like a 500 bath[...]
@@ -137,6 +138,8 @@ for the main case it take 11hr to print.2 hr for the rear lid and 3 hr for the a
 
 ![main assembly](./pictures/main%20assembly.png)
 
+<img width="3296" height="2547" alt="Image" src="https://github.com/user-attachments/assets/baeb2c47-450c-4413-9a67-b21ff49c0ee7" />
+
 # To Real
 
 ![front](./pictures/front.jpg)
@@ -148,3 +151,5 @@ for the main case it take 11hr to print.2 hr for the rear lid and 3 hr for the a
 ![breakdown](./pictures/breakdown.jpg)
 
 ![assembly](./pictures/assembly.jpg)
+
+
