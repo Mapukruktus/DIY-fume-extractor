@@ -132,21 +132,20 @@ for the main case it take 11hr to print.2 hr for the rear lid and 3 hr for the a
 
 # CAD design
 
-![[front cad.png]]
+![[pictures/front cad.png]]
 
 
-![[main assembly.png]]
+![[pictures/main assembly.png]]
 # To Real
 
-![[Projects/Project pictures/fume extractor/front.jpg]]
+![[pictures/fume extractor/front.jpg]]
 
-![[close up.jpg]]
+![[pictures/close up.jpg]]
 
+![[pictures/back.jpg]]
 
-![[Projects/Project pictures/fume extractor/back.jpg]]
+![[pictures/breakdown.jpg]]
 
-![[breakdown.jpg]]
-
-![[Projects/Project pictures/fume extractor/assembly.jpg]]
+![[pictures/assembly.jpg]]
 
 
